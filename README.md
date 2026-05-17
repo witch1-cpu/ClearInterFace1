@@ -1,2 +1,3 @@
-Local Switches:
-  {1, 10, A, on}
+Switches:
+  {170, on}
+  {171, off}
