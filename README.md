@@ -1,3 +1,3 @@
 Switches:
-  {170, off}
+  {170, on}
   {171, off}
